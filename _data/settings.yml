@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Wanki
-logo: logo.svg # You can add own logo.
+logo: logo_lwk.svg # You can add own logo.
 description: 
 
 
@@ -9,18 +9,13 @@ description:
 # Author Settings
 author:
   name: Wanki Lee
-  image: 01.jpg
+  image: lwk.jpg
   say-hello: Hello, I’m <strong>Wanki Lee</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
-
+  bio: Physics-based simulation & animation developer
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+linkedin: https://www.linkedin.com/in/wanki-lee-318b47202/
 
 
 #-------------------------------
