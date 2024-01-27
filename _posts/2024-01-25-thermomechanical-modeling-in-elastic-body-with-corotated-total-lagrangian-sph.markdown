@@ -3,7 +3,7 @@ layout: post
 title:  Thermomechanical modeling in elastic body with corotated total Lagrangian SPH
 date:   2024-01-24 15:01:35 +0300
 image:  thermo_01.gif
-tags:   SPH
+tags:   Journal
 ---
 * Developed thermomechanical simulation with corotated total Lagrangian SPH (TLSPH).
 * Devised thermal expansion model based on TLSPH.
