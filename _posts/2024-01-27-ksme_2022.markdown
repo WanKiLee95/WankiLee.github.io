@@ -1,0 +1,18 @@
+---
+layout: post
+title:  Dynamic Analyses of Cantilever Beam using the Total Lagrange-based Implicit SPH Method
+date:   2024-01-27 02:35:00 +0300
+image:  cantilever_02.png
+tags:   Journal
+---
+* Performed dynamic analyses of cantilever beams to verify the
+accuracy of the implicit total Lagrangian SPH model.
+* Received the '<b>Best Paper Award</b>' at the Korean Society of Mechanical Engineers (KSME)
+
+[<b>Lee, W.K.</b>, et al, “Dynamic Analyses of Cantilever Beam using the Total Lagrange-based Implicit SPH Method.”
+Transactions of the Korean Society of Mechanical Engineers (KSME), A 46.5 (2022): pp. 429-434.]\
+[[View conference paper(in Korean)]][paper]
+
+<img src="/wanki/images/cantilever_01.gif" alt="" data-action="zoom" style="display: block; margin: 0 auto; width: 700px;;" class="">
+
+[paper]: https://drive.google.com/file/d/1yGCNbUgJF0gdFe-P7MB_gxVf4PQAY6R7/view?usp=sharing

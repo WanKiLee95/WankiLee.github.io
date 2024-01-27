@@ -1,0 +1,11 @@
+---
+layout: post
+title:  Fluid simulator
+date:   2024-01-27 02:35:00 +0300
+image:  fluid_01.gif
+tags:   Project
+---
+* Formulated implicit corotated total Lagrangian SPH to use an infinitesimal strain model by extracting a rotation matrix from a deformation gradient.
+* Used in mechanical engineering and physics-based animation.
+
+<img src="/wanki/images/fluid_02.gif" alt="" data-action="zoom" style="display: block; margin: 0 auto; width: 500px;;" class="">

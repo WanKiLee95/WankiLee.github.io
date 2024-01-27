@@ -1,0 +1,14 @@
+---
+layout: post
+title:  Fracture simulation
+date:   2024-01-27 02:35:00 +0300
+image:  fracture_01.gif
+tags:   Project
+---
+* Implemented fracture simulation in the TLSPH framework.
+* Devised a breakage criterion based on fracture mechanics and crack propagation algorithm.
+
+<figure>
+<img src="/wanki/images/fracture_02.gif" alt="ddd" data-action="zoom" style="float: left;  height: 270px;" class="">
+<img src="/wanki/images/fracture_03.gif" alt="" data-action="zoom" style="float: right;  height: 350px;" class="">
+</figure>
