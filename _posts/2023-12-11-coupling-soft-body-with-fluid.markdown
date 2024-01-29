@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Coupling soft body(TLSPH) with fluid(ISPH) 
-date:   2024-01-26 02:35:00 +0300
+date:   2023-12-11 02:35:00 +0300
 image:  laundary1.gif
 tags:   Project
 ---

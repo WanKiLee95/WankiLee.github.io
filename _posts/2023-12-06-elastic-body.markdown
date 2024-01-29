@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Elastic body simulator
-date:   2024-01-27 02:35:00 +0300
+date:   2023-12-06 02:35:00 +0300
 image:  elastic_01.gif
 tags:   Project
 ---

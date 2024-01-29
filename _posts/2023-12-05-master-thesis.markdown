@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Numerical analysis and CFD simulation of bead formation and molten pool dynamics in wire arc additive manufacturing(WAAM) method
-date:   2024-01-27 02:35:00 +0300
+date:   2023-12-05 02:35:00 +0300
 image:  thesis_01.gif
 tags:   Thesis
 ---

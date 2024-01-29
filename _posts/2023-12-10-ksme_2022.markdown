@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Dynamic Analyses of Cantilever Beam using the Total Lagrange-based Implicit SPH Method
-date:   2024-01-27 02:35:00 +0300
+date:   2023-12-10 02:35:00 +0300
 image:  cantilever_02.png
 tags:   Journal
 ---

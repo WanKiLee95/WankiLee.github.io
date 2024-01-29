@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Thermomechanical modeling in elastic body with corotated total Lagrangian SPH
-date:   2024-01-24 15:01:35 +0300
+date:   2023-12-13 15:01:35 +0300
 image:  thermo_01.gif
 tags:   Journal
 ---
