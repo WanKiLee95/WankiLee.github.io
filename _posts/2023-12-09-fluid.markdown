@@ -5,7 +5,7 @@ date:   2023-12-09 02:35:00 +0300
 image:  fluid_01.gif
 tags:   Project
 ---
-* Formulated implicit corotated total Lagrangian SPH to use an infinitesimal strain model by extracting a rotation matrix from a deformation gradient.
-* Used in mechanical engineering and physics-based animation.
+* Formulated implicit incompressible SPH; solved pressure Poisson equation with bi-conjugate gradient (BiCG).
+* Compensated the deficiency of pressure using the Unique Interpolation Point (UIP) method; implemented slip/non-slip conditions on the wall.
 
 <img src="/wanki/images/fluid_02.gif" alt="" data-action="zoom" style="display: block; margin: 0 auto; width: 500px;;" class="">
