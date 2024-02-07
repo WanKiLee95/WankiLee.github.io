@@ -13,6 +13,6 @@ accuracy of the implicit total Lagrangian SPH model.
 Transactions of the Korean Society of Mechanical Engineers (KSME), A 46.5 (2022): pp. 429-434.]\
 [[View conference paper(in Korean)]][paper]
 
-<img src="/wanki/images/cantilever_01.gif" alt="" data-action="zoom" style="display: block; margin: 0 auto; width: 700px;;" class="">
+<img src="/blog/images/cantilever_01.gif" alt="" data-action="zoom" style="display: block; margin: 0 auto; width: 700px;;" class="">
 
 [paper]: https://drive.google.com/file/d/1yGCNbUgJF0gdFe-P7MB_gxVf4PQAY6R7/view?usp=sharing

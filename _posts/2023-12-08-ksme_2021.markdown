@@ -12,8 +12,8 @@ tags:   Conference
 Mindlin Contact Model,” Korean Society of Mechanical Engineers 2021 Annual Conference: 63-64.]\
 [[View conference paper(in Korean)]][paper]
 
-<img src="/wanki/images/collision_02.jpg" alt="" data-action="zoom" style="display: block; margin: 0 auto; width: 700px;;" class="">
+<img src="/blog/images/collision_02.jpg" alt="" data-action="zoom" style="display: block; margin: 0 auto; width: 700px;;" class="">
 
-<img src="/wanki/images/collision_03.gif" alt="" data-action="zoom" style="display: block; margin: 0 auto; width: 900px;;" class="">
+<img src="/blog/images/collision_03.gif" alt="" data-action="zoom" style="display: block; margin: 0 auto; width: 900px;;" class="">
 
 [paper]: https://drive.google.com/file/d/1eFqHM_2B2AMJcm8nQnaHlAqpwi_7waLU/view?usp=sharing

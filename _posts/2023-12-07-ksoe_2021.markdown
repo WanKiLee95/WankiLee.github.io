@@ -11,6 +11,6 @@ tags:   Conference
 Korean Society of Ocean Engineers (KSOE) Fall 2021 Conference.]\
 [[View conference ppt(in Korean)]][ppt]
 
-<img src="/wanki/images/buckling_02.jpg" alt="" data-action="zoom" style="display: block; margin: 0 auto; width: 700px;;" class="">
+<img src="/blog/images/buckling_02.jpg" alt="" data-action="zoom" style="display: block; margin: 0 auto; width: 700px;;" class="">
 
 [ppt]: https://drive.google.com/file/d/1Uv-WKdlNeOv0rxecqYS_uu1UDpA-7eVC/view?usp=sharing

@@ -8,4 +8,4 @@ tags:   Project
 * Formulated implicit incompressible SPH; solved pressure Poisson equation with bi-conjugate gradient (BiCG).
 * Compensated the deficiency of pressure using the Unique Interpolation Point (UIP) method; implemented slip/non-slip conditions on the wall.
 
-<img src="/wanki/images/fluid_02.gif" alt="" data-action="zoom" style="display: block; margin: 0 auto; width: 500px;;" class="">
+<img src="/blog/images/fluid_02.gif" alt="" data-action="zoom" style="display: block; margin: 0 auto; width: 500px;;" class="">

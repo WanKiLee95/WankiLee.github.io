@@ -10,15 +10,15 @@ A CFD-based process simulation model was created to analyze metal 3D printing, s
 [[View thesis research ppt(in English)]][ppt]
 
 <figure>
-<img src="/wanki/images/thesis_01.gif" alt="" data-action="zoom" style="float: left; width: 500px;" class="">
-<img src="/wanki/images/thesis_02.jpg" alt="" data-action="zoom" style="float: right; width: 250px;" class="">
+<img src="/blog/images/thesis_01.gif" alt="" data-action="zoom" style="float: left; width: 500px;" class="">
+<img src="/blog/images/thesis_02.jpg" alt="" data-action="zoom" style="float: right; width: 250px;" class="">
 </figure>
 
 <div style="clear: both;"></div>
 
 <figure>
-<img src="/wanki/images/thesis_03.gif" alt="" data-action="zoom" style="float: left; width: 500px;" class="">
-<img src="/wanki/images/thesis_04.jpg" alt="" data-action="zoom" style="float: right; width: 250px;" class="">
+<img src="/blog/images/thesis_03.gif" alt="" data-action="zoom" style="float: left; width: 500px;" class="">
+<img src="/blog/images/thesis_04.jpg" alt="" data-action="zoom" style="float: right; width: 250px;" class="">
 </figure>
 
 <div style="clear: both;"></div>

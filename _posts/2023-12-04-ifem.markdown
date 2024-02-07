@@ -8,7 +8,7 @@ tags:   Project
 * Implemented a simulator for particle aggregation and breakage in a Taylor-Couette reactor using the Immersed Finite Element Method (IFEM).
 
 <figure>
-<img src="/wanki/images/ifem_02.jpg" alt="" data-action="zoom" style="display: block; margin: 0 auto; width: 700px;;" class="">
+<img src="/blog/images/ifem_02.jpg" alt="" data-action="zoom" style="display: block; margin: 0 auto; width: 700px;;" class="">
 </figure>
 [reference:[Axisymmetric Taylor-Couette Swirl Flow CFD Simulation | FEATool Multiphysics]][ref]
 
