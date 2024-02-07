@@ -11,7 +11,7 @@ tags:   Journal
 
 [[View pre-print]][pre-print]
 
-<img src="/wanki/images/thermo_01.gif" alt="" data-action="zoom" style="width: 350px;" class="">
-<img src="/wanki/images/thermo_02.gif" alt="" data-action="zoom" style="width: 350px;" class="">
+<img src="/blog/images/thermo_01.gif" alt="" data-action="zoom" style="width: 350px;" class="">
+<img src="/blog/images/thermo_02.gif" alt="" data-action="zoom" style="width: 350px;" class="">
 
 [pre-print]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4703208
