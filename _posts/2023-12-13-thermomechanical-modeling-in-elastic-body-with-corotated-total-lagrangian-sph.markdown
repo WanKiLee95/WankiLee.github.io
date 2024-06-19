@@ -7,11 +7,11 @@ tags:   Journal
 ---
 * Developed thermomechanical simulation with corotated total Lagrangian SPH (TLSPH).
 * Devised thermal expansion model based on TLSPH.
-* The paper titled 'Thermomechanical modeling in elastic body with corotated total Lagrangian SPH was submitted to journal (under review).
+* The paper titled 'Thermomechanical modeling in elastic body with corotated total Lagrangian SPH was published in the journal (Computers & Structures).
 
-[[View pre-print]][pre-print]
+[[View paper]][pre-print]
 
 <img src="/blog/images/thermo_01.gif" alt="" data-action="zoom" style="width: 350px;" class="">
 <img src="/blog/images/thermo_02.gif" alt="" data-action="zoom" style="width: 350px;" class="">
 
-[pre-print]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4703208
+[pre-print]: https://www.sciencedirect.com/science/article/abs/pii/S0045794924001573
